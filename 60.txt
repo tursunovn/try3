@@ -1,0 +1,3 @@
+price 60 000 
+20000 internet
+5000 minutes
