@@ -1,0 +1,3 @@
+cost 20 USD
+unlim minutes
+25000 internet
